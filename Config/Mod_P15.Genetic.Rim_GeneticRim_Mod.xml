@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NewAnimalSubproducts.GeneticRim_Settings">
+		<failureRate>10</failureRate>
+	</ModSettings>
+</SettingsBlock>

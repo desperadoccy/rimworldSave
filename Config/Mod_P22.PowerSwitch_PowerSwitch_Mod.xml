@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PowerSwitch.PowerSwitch_ModSettings">
+		<enemyDetectionRangePercentofMap>0.449999988</enemyDetectionRangePercentofMap>
+		<pawnNearbyDetectionRange>7</pawnNearbyDetectionRange>
+	</ModSettings>
+</SettingsBlock>

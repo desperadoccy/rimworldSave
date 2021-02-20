@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mods>
+  <mod packageId="brrainz.harmony" />
+  <mod packageId="Ludeon.RimWorld" />
+  <mod packageId="Ludeon.RimWorld.Royalty" />
+  <mod packageId="RWZH.ChinesePack.HugsLib" />
+  <mod packageId="rwmt.Multiplayer" />
+  <mod packageId="rwmt.MultiplayerCompatibility" />
+  <mod packageId="UnlimitedHugs.HugsLib" />
+  <mod packageId="RWZH.ChinesePack.epoeforkedroyalty" />
+</Mods>

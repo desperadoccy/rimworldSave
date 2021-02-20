@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Rimatomics.Settings">
+		<LastVersion>918</LastVersion>
+		<FuelBurnRateInt>4</FuelBurnRateInt>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AnimalsLogic.Settings">
+		<wildness_threshold_for_tameness_decay>1</wildness_threshold_for_tameness_decay>
+		<training_decay_factor>0.00999999978</training_decay_factor>
+		<haul_mtb>0</haul_mtb>
+	</ModSettings>
+</SettingsBlock>
