@@ -4,10 +4,9 @@
 		<username>ccy</username>
 		<serverAddress>192.168.2.2</serverAddress>
 		<serverSettings>
-			<maxPlayers>2</maxPlayers>
+			<maxPlayers>3</maxPlayers>
 			<autosaveInterval>2</autosaveInterval>
 			<direct>True</direct>
-			<arbiter>False</arbiter>
 		</serverSettings>
 	</ModSettings>
 </SettingsBlock>

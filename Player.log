@@ -10,27 +10,35 @@ Direct3D:
     VRAM:     6052 MB
     Driver:   27.21.14.6089
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.088 seconds
+- Completed reload, in  0.081 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.779000 ms
+UnloadTime: 0.501700 ms
 RimWorld 1.1.2654 rev672
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B6549BF0.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B64618C0.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B646A020.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B646CC30.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B6478650.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B6600C10.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B665EE30.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B6676650.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B66A4470.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B6798850.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B67CEC80.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B640F850.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3B7E94670.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27D65030.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27E24CB0.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27E33860.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27C32270.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27C3FCA0.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27CCC010.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27C536C0.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27E38480.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27E89AC0.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27F6D010.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27F93430.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B2801A020.dll
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B297290A0.dll
 Current API version: 0.1
 [HugsLib] version 7.2.1
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
 Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
@@ -275,14 +283,6 @@ Could not resolve cross-reference to Verse.RecipeDef named CureAbasia (wanter=re
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
 Failed to find RimWorld.ConceptDef named MeditationSchedule. There are 58 defs of this type loaded.
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
@@ -317,357 +317,11 @@ Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64
 Multiplayer version 0.5.1.8
 Player's username: ccy
 Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-000001E3C82D9020.dll
-Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.446200 ms
-
-Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 10565.
-Total: 93.317200 ms (FindLiveObjects: 0.600800 ms CreateObjectMapping: 0.377000 ms MarkObjects: 92.276300 ms  DeleteObjects: 0.062600 ms)
-
-Loading game from file 6 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17507.
-Total: 201.356900 ms (FindLiveObjects: 1.183600 ms CreateObjectMapping: 1.360600 ms MarkObjects: 198.761900 ms  DeleteObjects: 0.050400 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.517700 ms
-
-Unloading 6571 unused Assets to reduce memory usage. Loaded Objects now: 12512.
-Total: 157.439200 ms (FindLiveObjects: 1.139200 ms CreateObjectMapping: 1.321200 ms MarkObjects: 143.096300 ms  DeleteObjects: 11.882000 ms)
-
-Loading game from file 6 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19041.
-Total: 220.464900 ms (FindLiveObjects: 1.652700 ms CreateObjectMapping: 1.539800 ms MarkObjects: 217.084700 ms  DeleteObjects: 0.187200 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.519700 ms
-
-Unloading 6525 unused Assets to reduce memory usage. Loaded Objects now: 12593.
-Total: 173.125000 ms (FindLiveObjects: 0.978000 ms CreateObjectMapping: 1.668400 ms MarkObjects: 159.936000 ms  DeleteObjects: 10.542000 ms)
-
-Loading game from file 6 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19126.
-Total: 237.253300 ms (FindLiveObjects: 0.986300 ms CreateObjectMapping: 1.155000 ms MarkObjects: 235.070800 ms  DeleteObjects: 0.040900 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.569500 ms
-
-Unloading 6521 unused Assets to reduce memory usage. Loaded Objects now: 12608.
-Total: 202.967000 ms (FindLiveObjects: 1.176000 ms CreateObjectMapping: 1.482500 ms MarkObjects: 190.079600 ms  DeleteObjects: 10.228600 ms)
-
-Loading game from file 6 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19142.
-Total: 261.055200 ms (FindLiveObjects: 0.820600 ms CreateObjectMapping: 1.304200 ms MarkObjects: 258.890900 ms  DeleteObjects: 0.039000 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.606100 ms
-
-Unloading 6533 unused Assets to reduce memory usage. Loaded Objects now: 12640.
-Total: 196.501600 ms (FindLiveObjects: 1.211700 ms CreateObjectMapping: 1.188700 ms MarkObjects: 184.696700 ms  DeleteObjects: 9.403800 ms)
-
-Loading game from file 6 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19181.
-Total: 266.617700 ms (FindLiveObjects: 1.710100 ms CreateObjectMapping: 1.518100 ms MarkObjects: 263.354000 ms  DeleteObjects: 0.035200 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.601200 ms
-
-Unloading 6528 unused Assets to reduce memory usage. Loaded Objects now: 12657.
-Total: 206.064700 ms (FindLiveObjects: 0.993700 ms CreateObjectMapping: 1.448100 ms MarkObjects: 194.841900 ms  DeleteObjects: 8.780600 ms)
-
-Loading game from file 6 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19193.
-Total: 258.185200 ms (FindLiveObjects: 1.248700 ms CreateObjectMapping: 1.557800 ms MarkObjects: 255.086500 ms  DeleteObjects: 0.291700 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.548900 ms
-
-Unloading 6531 unused Assets to reduce memory usage. Loaded Objects now: 12709.
-Total: 217.136400 ms (FindLiveObjects: 1.050900 ms CreateObjectMapping: 1.195200 ms MarkObjects: 205.488500 ms  DeleteObjects: 9.401500 ms)
-
-Loading game from file 6 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19245.
-Total: 284.120100 ms (FindLiveObjects: 1.498700 ms CreateObjectMapping: 1.435400 ms MarkObjects: 280.915800 ms  DeleteObjects: 0.269700 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.567300 ms
-
-Unloading 6534 unused Assets to reduce memory usage. Loaded Objects now: 12734.
-Total: 251.115500 ms (FindLiveObjects: 0.896400 ms CreateObjectMapping: 1.282600 ms MarkObjects: 238.584800 ms  DeleteObjects: 10.351300 ms)
-
-Loading game from file 6 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19272.
-Total: 316.585600 ms (FindLiveObjects: 1.532400 ms CreateObjectMapping: 1.319500 ms MarkObjects: 313.508000 ms  DeleteObjects: 0.225400 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.652600 ms
-
-Unloading 6532 unused Assets to reduce memory usage. Loaded Objects now: 12763.
-Total: 238.002500 ms (FindLiveObjects: 1.167400 ms CreateObjectMapping: 1.496700 ms MarkObjects: 225.418600 ms  DeleteObjects: 9.919400 ms)
-
-Loading game from file 4 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19301.
-Total: 323.836900 ms (FindLiveObjects: 1.143500 ms CreateObjectMapping: 1.415800 ms MarkObjects: 321.239100 ms  DeleteObjects: 0.038100 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.662800 ms
-
-Unloading 6543 unused Assets to reduce memory usage. Loaded Objects now: 12809.
-Total: 229.502100 ms (FindLiveObjects: 1.233300 ms CreateObjectMapping: 1.230700 ms MarkObjects: 218.042400 ms  DeleteObjects: 8.995200 ms)
-
-Loading game from file 4 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19354.
-Total: 322.473900 ms (FindLiveObjects: 0.985400 ms CreateObjectMapping: 1.131700 ms MarkObjects: 320.274900 ms  DeleteObjects: 0.081200 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.765100 ms
-
-Unloading 6528 unused Assets to reduce memory usage. Loaded Objects now: 12816.
-Total: 270.888000 ms (FindLiveObjects: 0.772300 ms CreateObjectMapping: 1.418600 ms MarkObjects: 260.142100 ms  DeleteObjects: 8.554700 ms)
-
-Loading game from file 4 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19357.
-Total: 341.480700 ms (FindLiveObjects: 0.763400 ms CreateObjectMapping: 1.427200 ms MarkObjects: 339.234500 ms  DeleteObjects: 0.055000 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.572400 ms
-
-Unloading 6524 unused Assets to reduce memory usage. Loaded Objects now: 12822.
-Total: 255.975200 ms (FindLiveObjects: 0.794000 ms CreateObjectMapping: 1.366600 ms MarkObjects: 246.039100 ms  DeleteObjects: 7.775200 ms)
-
-Loading game from file 4 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19372.
-Total: 332.970600 ms (FindLiveObjects: 1.723600 ms CreateObjectMapping: 1.531900 ms MarkObjects: 329.682500 ms  DeleteObjects: 0.032000 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.444600 ms
-
-Unloading 6533 unused Assets to reduce memory usage. Loaded Objects now: 12832.
-Total: 253.033900 ms (FindLiveObjects: 0.862400 ms CreateObjectMapping: 1.193100 ms MarkObjects: 243.604100 ms  DeleteObjects: 7.373700 ms)
-
-Loading game from file 4 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19380.
-Total: 344.240000 ms (FindLiveObjects: 1.640000 ms CreateObjectMapping: 1.797600 ms MarkObjects: 340.538000 ms  DeleteObjects: 0.263900 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.644000 ms
-
-Unloading 6866 unused Assets to reduce memory usage. Loaded Objects now: 13252.
-Total: 210.333900 ms (FindLiveObjects: 1.572000 ms CreateObjectMapping: 1.386700 ms MarkObjects: 193.055600 ms  DeleteObjects: 14.319300 ms)
-
-Loading game from file 2 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19816.
-Total: 276.405100 ms (FindLiveObjects: 2.084300 ms CreateObjectMapping: 2.275500 ms MarkObjects: 271.976100 ms  DeleteObjects: 0.068600 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.632300 ms
-
-Unloading 6550 unused Assets to reduce memory usage. Loaded Objects now: 13332.
-Total: 225.687200 ms (FindLiveObjects: 0.984300 ms CreateObjectMapping: 1.327300 ms MarkObjects: 214.851200 ms  DeleteObjects: 8.524000 ms)
-
-Loading game from file 2 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19904.
-Total: 294.051900 ms (FindLiveObjects: 1.422200 ms CreateObjectMapping: 1.774100 ms MarkObjects: 290.818800 ms  DeleteObjects: 0.035900 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.750900 ms
-
-Unloading 6625 unused Assets to reduce memory usage. Loaded Objects now: 13355.
-Total: 233.875100 ms (FindLiveObjects: 1.200100 ms CreateObjectMapping: 1.383800 ms MarkObjects: 222.444200 ms  DeleteObjects: 8.846500 ms)
-
-Loading game from file 2 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19920.
-Total: 313.918100 ms (FindLiveObjects: 0.842400 ms CreateObjectMapping: 1.337400 ms MarkObjects: 311.693100 ms  DeleteObjects: 0.044700 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.466300 ms
-
-Unloading 6555 unused Assets to reduce memory usage. Loaded Objects now: 13362.
-Total: 257.251800 ms (FindLiveObjects: 0.988500 ms CreateObjectMapping: 1.464000 ms MarkObjects: 246.924700 ms  DeleteObjects: 7.874300 ms)
-
-Loading game from file 2 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19930.
-Total: 321.922900 ms (FindLiveObjects: 0.734600 ms CreateObjectMapping: 1.214900 ms MarkObjects: 319.936800 ms  DeleteObjects: 0.036100 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.657800 ms
-
-Unloading 6558 unused Assets to reduce memory usage. Loaded Objects now: 13367.
-Total: 251.903500 ms (FindLiveObjects: 1.182900 ms CreateObjectMapping: 1.384300 ms MarkObjects: 241.330700 ms  DeleteObjects: 8.005000 ms)
-
-Loading game from file 2 with mods:
-  - brrainz.harmony
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - RWZH.ChinesePack.HugsLib
-  - rwmt.Multiplayer
-  - rwmt.MultiplayerCompatibility
-  - UnlimitedHugs.HugsLib
-Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19932.
-Total: 331.261800 ms (FindLiveObjects: 0.970800 ms CreateObjectMapping: 1.561000 ms MarkObjects: 328.687900 ms  DeleteObjects: 0.041800 ms)
-
-Reserving with maxPawns > 1 and stackCount = All; this will not have a useful effect (suppressing future warnings)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
+Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B3B323610.dll
 Setting up 6 worker threads for Enlighten.
-  Thread -> id: 3f54 -> priority: 1 
-  Thread -> id: 4cac -> priority: 1 
-  Thread -> id: 5290 -> priority: 1 
-  Thread -> id: 6064 -> priority: 1 
-  Thread -> id: 6288 -> priority: 1 
-  Thread -> id: 2598 -> priority: 1 
+  Thread -> id: 79d4 -> priority: 1 
+  Thread -> id: 2d4c -> priority: 1 
+  Thread -> id: 6404 -> priority: 1 
+  Thread -> id: 7930 -> priority: 1 
+  Thread -> id: 7f38 -> priority: 1 
+  Thread -> id: 7950 -> priority: 1 
