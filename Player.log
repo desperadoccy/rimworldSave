@@ -1,200 +1,37 @@
-Mono path[0] = 'E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Managed'
-Mono config path = 'E:/RimWorld.v1.1.2654-jisu/MonoBleedingEdge/etc'
+Mono path[0] = 'C:/rimworld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/rimworld/MonoBleedingEdge/etc'
 Initialize engine version: 2019.2.17f1 (8e603399ca02)
-[XR] Discovering subsystems at path E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/UnitySubsystems
+[XR] Discovering subsystems at path C:/rimworld/RimWorldWin64_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c60)
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
     Vendor:   
-    VRAM:     6052 MB
-    Driver:   27.21.14.6089
+    VRAM:     3035 MB
+    Driver:   26.20.12020.3002
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.081 seconds
+- Completed reload, in  0.113 seconds
 <RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.501700 ms
+UnloadTime: 1.023400 ms
 RimWorld 1.1.2654 rev672
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27D65030.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27E24CB0.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27E33860.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27C32270.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27C3FCA0.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27CCC010.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27C536C0.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27E38480.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27E89AC0.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27F6D010.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B27F93430.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B2801A020.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B297290A0.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE6786DC0.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE2094660.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE66F5080.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE66F7C90.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE67016A0.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE67130B0.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE6750EC0.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE683DAF0.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE686BE30.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE695C1A0.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE698A5D0.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE66380B0.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AE6D55180.dll
 Current API version: 0.1
 [HugsLib] version 7.2.1
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
 Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
@@ -283,6 +120,170 @@ Could not resolve cross-reference to Verse.RecipeDef named CureAbasia (wanter=re
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference to Verse.RecipeDef named CureBloodRot (wanter=recipes)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
 Failed to find RimWorld.ConceptDef named MeditationSchedule. There are 58 defs of this type loaded.
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
@@ -291,7 +292,7 @@ Failed to find RimWorld.ConceptDef named MeditationDesiredPsyfocus. There are 58
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Translation data for language Simplified Chinese has 231 errors. Generate translation report for more info.
+Translation data for language Simplified Chinese has 195 errors. Generate translation report for more info.
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
@@ -299,29 +300,346 @@ Plugins: Failed to load 'simple_profiler' because one or more of its dependencie
  
 (Filename: C:\buildslave\unity\build\Runtime/Misc/Plugins.cpp Line: 292)
 
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/.\simple_profiler.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/.\simple_profiler.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/simple_profiler.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/simple_profiler.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/simple_profiler.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/.\simple_profiler
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/.\simple_profiler.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/simple_profiler
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/simple_profiler.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/simple_profiler
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/.\libsimple_profiler.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/.\libsimple_profiler.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/libsimple_profiler.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/libsimple_profiler.dll
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/libsimple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/.\simple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/.\simple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/simple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/simple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/simple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/.\simple_profiler
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/.\simple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/simple_profiler
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/simple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/simple_profiler
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/.\libsimple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/.\libsimple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/libsimple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/libsimple_profiler.dll
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/libsimple_profiler.dll
 Multiplayer version 0.5.1.8
 Player's username: ccy
-Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
-Fallback handler could not load library E:/RimWorld.v1.1.2654-jisu/RimWorldWin64_Data/Mono/data-0000017B3B323610.dll
-Setting up 6 worker threads for Enlighten.
-  Thread -> id: 79d4 -> priority: 1 
-  Thread -> id: 2d4c -> priority: 1 
-  Thread -> id: 6404 -> priority: 1 
-  Thread -> id: 7930 -> priority: 1 
-  Thread -> id: 7f38 -> priority: 1 
-  Thread -> id: 7950 -> priority: 1 
+Processor: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx 
+Fallback handler could not load library C:/rimworld/RimWorldWin64_Data/Mono/data-0000017AF02DE1C0.dll
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.556100 ms
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 10565.
+Total: 167.834700 ms (FindLiveObjects: 1.100200 ms CreateObjectMapping: 0.601400 ms MarkObjects: 165.994200 ms  DeleteObjects: 0.137800 ms)
+
+Loading game from file 4 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - RWZH.ChinesePack.HugsLib
+  - rwmt.Multiplayer
+  - rwmt.MultiplayerCompatibility
+  - UnlimitedHugs.HugsLib
+Replaced verb RimWorld.Verb_CastPsycast/Ability_burdenHuman449_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_blinding pulseHuman449_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_vertigo pulseHuman449_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_smokepopHuman449_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_berserkHuman449_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_mass chaos skipHuman449_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_burdenHuman299211_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_burdenHuman299226_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_blinding pulseHuman299226_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_chaos skipHuman299226_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_stunHuman299234_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_blinding pulseHuman299234_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_beckonHuman299234_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_burdenHuman764570_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_neural heat dumpHuman764570_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_beckonHuman764570_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_painblockHuman863951_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_neural heat dumpHuman863951_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_vertigo pulseHuman863951_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_painblockHuman764564_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_burdenHuman764563_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_neural heat dumpHuman764563_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_burdenHuman863950_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_neural heat dumpHuman863950_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_vertigo pulseHuman863950_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_smokepopHuman863950_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_invisibilityHuman863950_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_stunHuman1952097_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_neural heat dumpHuman1952097_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_chaos skipHuman1952097_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_focusHuman1952097_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_berserkHuman1952097_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_mass chaos skipHuman1952097_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_burdenHuman863959_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_CastPsycast/Ability_chaos skipHuman863959_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID LogEntry_19694028_44882 of type Verse.LogEntry. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(Bite 右后肢 ticksSinceCreation=169724) curPathRelToParent=
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17750.
+Total: 231.296500 ms (FindLiveObjects: 1.174100 ms CreateObjectMapping: 0.771300 ms MarkObjects: 229.294600 ms  DeleteObjects: 0.055900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.866300 ms
+
+Unloading 6993 unused Assets to reduce memory usage. Loaded Objects now: 12672.
+Total: 241.211100 ms (FindLiveObjects: 1.324300 ms CreateObjectMapping: 1.123800 ms MarkObjects: 221.121400 ms  DeleteObjects: 17.640700 ms)
+
+Loading game from file Autosave-2 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - RWZH.ChinesePack.HugsLib
+  - rwmt.Multiplayer
+  - rwmt.MultiplayerCompatibility
+  - UnlimitedHugs.HugsLib
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19477.
+Total: 282.304200 ms (FindLiveObjects: 2.150800 ms CreateObjectMapping: 1.686700 ms MarkObjects: 278.213700 ms  DeleteObjects: 0.252300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.885100 ms
+
+Unloading 7023 unused Assets to reduce memory usage. Loaded Objects now: 12880.
+Total: 315.725500 ms (FindLiveObjects: 2.568100 ms CreateObjectMapping: 1.671900 ms MarkObjects: 290.546300 ms  DeleteObjects: 20.938400 ms)
+
+Loading game from file Autosave-2 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - RWZH.ChinesePack.HugsLib
+  - rwmt.Multiplayer
+  - rwmt.MultiplayerCompatibility
+  - UnlimitedHugs.HugsLib
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19683.
+Total: 318.018700 ms (FindLiveObjects: 3.578000 ms CreateObjectMapping: 3.418400 ms MarkObjects: 310.832900 ms  DeleteObjects: 0.188800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 1.050200 ms
+
+Unloading 6829 unused Assets to reduce memory usage. Loaded Objects now: 12890.
+Total: 363.742700 ms (FindLiveObjects: 2.097500 ms CreateObjectMapping: 1.503500 ms MarkObjects: 334.437900 ms  DeleteObjects: 25.703000 ms)
+
+Loading game from file Autosave-2 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - RWZH.ChinesePack.HugsLib
+  - rwmt.Multiplayer
+  - rwmt.MultiplayerCompatibility
+  - UnlimitedHugs.HugsLib
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19691.
+Total: 338.525200 ms (FindLiveObjects: 3.983600 ms CreateObjectMapping: 1.560000 ms MarkObjects: 332.925800 ms  DeleteObjects: 0.055400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.963900 ms
+
+Unloading 6955 unused Assets to reduce memory usage. Loaded Objects now: 12968.
+Total: 480.986400 ms (FindLiveObjects: 1.982400 ms CreateObjectMapping: 1.456000 ms MarkObjects: 461.776200 ms  DeleteObjects: 15.771000 ms)
+
+Loading game from file Autosave-3 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - RWZH.ChinesePack.HugsLib
+  - rwmt.Multiplayer
+  - rwmt.MultiplayerCompatibility
+  - UnlimitedHugs.HugsLib
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19789.
+Total: 443.346700 ms (FindLiveObjects: 1.351400 ms CreateObjectMapping: 1.167200 ms MarkObjects: 440.751500 ms  DeleteObjects: 0.076100 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.875300 ms
+
+Unloading 6800 unused Assets to reduce memory usage. Loaded Objects now: 12974.
+Total: 448.754400 ms (FindLiveObjects: 1.962600 ms CreateObjectMapping: 1.558100 ms MarkObjects: 427.891100 ms  DeleteObjects: 17.341800 ms)
+
+Loading game from file Autosave-2 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - RWZH.ChinesePack.HugsLib
+  - rwmt.Multiplayer
+  - rwmt.MultiplayerCompatibility
+  - UnlimitedHugs.HugsLib
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19773.
+Total: 611.564900 ms (FindLiveObjects: 2.535300 ms CreateObjectMapping: 1.511300 ms MarkObjects: 607.481900 ms  DeleteObjects: 0.036000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.916000 ms
+
+Unloading 6829 unused Assets to reduce memory usage. Loaded Objects now: 13004.
+Total: 401.450000 ms (FindLiveObjects: 2.203700 ms CreateObjectMapping: 1.593700 ms MarkObjects: 381.845800 ms  DeleteObjects: 15.805900 ms)
+
+Loading game from file Autosave-2 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - RWZH.ChinesePack.HugsLib
+  - rwmt.Multiplayer
+  - rwmt.MultiplayerCompatibility
+  - UnlimitedHugs.HugsLib
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19808.
+Total: 413.564700 ms (FindLiveObjects: 1.738100 ms CreateObjectMapping: 1.313900 ms MarkObjects: 410.460400 ms  DeleteObjects: 0.051900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 1.106300 ms
+
+Unloading 6835 unused Assets to reduce memory usage. Loaded Objects now: 13021.
+Total: 554.456500 ms (FindLiveObjects: 1.713600 ms CreateObjectMapping: 1.332400 ms MarkObjects: 524.154500 ms  DeleteObjects: 27.255400 ms)
+
+Loading game from file 3 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - RWZH.ChinesePack.HugsLib
+  - rwmt.Multiplayer
+  - rwmt.MultiplayerCompatibility
+  - UnlimitedHugs.HugsLib
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19819.
+Total: 428.246200 ms (FindLiveObjects: 2.186400 ms CreateObjectMapping: 1.852600 ms MarkObjects: 423.797100 ms  DeleteObjects: 0.409300 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.896700 ms
+
+Unloading 6776 unused Assets to reduce memory usage. Loaded Objects now: 13027.
+Total: 527.740600 ms (FindLiveObjects: 1.796800 ms CreateObjectMapping: 1.566200 ms MarkObjects: 506.824100 ms  DeleteObjects: 17.552700 ms)
+
+Loading game from file 3 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - RWZH.ChinesePack.HugsLib
+  - rwmt.Multiplayer
+  - rwmt.MultiplayerCompatibility
+  - UnlimitedHugs.HugsLib
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19824.
+Total: 527.771600 ms (FindLiveObjects: 2.148000 ms CreateObjectMapping: 1.723900 ms MarkObjects: 523.819500 ms  DeleteObjects: 0.079700 ms)
+
+Failed to find Verse.HediffDef named Abasia. There are 150 defs of this type loaded.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2728 -> priority: 1 
+  Thread -> id: 2dd4 -> priority: 1 
+  Thread -> id: 26a4 -> priority: 1 
+  Thread -> id: 3eac -> priority: 1 
